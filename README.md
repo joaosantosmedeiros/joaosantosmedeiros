@@ -14,6 +14,14 @@
 </p>
 
 <p align="left">
+   Projetos principais:
+</p>
+
+* [E-commerce completo com NestJS](https://github.com/joaosantosmedeiros/Central-do-Queijo)
+* [App simples responsivo de quiz com Angular](https://joaosantosmedeiros.github.io/quiz-app/)
+* [E-commerce com Spring (em desenvolvimento)](https://github.com/joaosantosmedeiros/cheese-central-spring)
+
+<p align="left">
   💌 Atualmente <strong>disponível</strong> para novas oportunidades! Entre em contato: ⤵️
 </p>
 

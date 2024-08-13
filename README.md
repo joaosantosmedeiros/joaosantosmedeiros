@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: Javascript, Typescript, Java.
+  🦄 Linguagens: Java, Typescript, Javascript.
 </p>
 
 <p align="left">
-  💼 Ferramentas: Javascript, Typescript, Java, PostgreSQL, MongoDB, NestJs, Express, Angular, React, Git/Github, Unix Systems, HTML, CSS
+  💼 Ferramentas: Javascript, Typescript, Java, PostgreSQL, MongoDB, NestJs, Express, Angular, React, Git/Github, Unix Systems, HTML, CSS, Figma
 </p>
 
 <p align="left">
@@ -19,7 +19,7 @@
 
 * [E-commerce completo com NestJS](https://github.com/joaosantosmedeiros/Central-do-Queijo)
 * [App simples responsivo de quiz com Angular](https://joaosantosmedeiros.github.io/quiz-app/)
-* [E-commerce com Spring (em desenvolvimento)](https://github.com/joaosantosmedeiros/cheese-central-spring)
+* [E-commerce com Spring](https://github.com/joaosantosmedeiros/cheese-central-spring)
 
 <p align="left">
   💌 Atualmente <strong>disponível</strong> para novas oportunidades! Entre em contato: ⤵️
